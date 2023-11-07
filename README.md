@@ -43,8 +43,8 @@ A Python application that creates a mesmerizing rainbow drawing when you move yo
     - Clone the repository:
     
     ```bash
-    git clone https://github.com/EaindrayFromEarth/rainbow-drawing.git
-    cd rainbow-drawing
+    git clone https://github.com/EaindrayFromEarth/OpenCV-Rainbow-Drawer.git
+    
     ```
 
     - Run the application:
