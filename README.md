@@ -19,7 +19,7 @@ A Python application that creates a mesmerizing rainbow drawing when you move yo
 
 ## Demo
 
-![Rainbow Drawing Demo](demo.gif)
+<div class="tenor-gif-embed" data-postid="11766571" data-share-method="host" data-aspect-ratio="1.33133" data-width="100%"><a href="https://tenor.com/view/spongebob-rainbow-gif-11766571">Spongebob Rainbow GIF</a>from <a href="https://tenor.com/search/spongebob-gifs">Spongebob GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Features
 
